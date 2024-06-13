@@ -25,6 +25,7 @@ Update History:
 
 ![截图](https://github.com/cvonfj/z370n-WIFI-RadeonProW5500-OC/blob/master/PrtScreen.png)
   - [启动慢，usb 不识别，蓝牙不识别](https://imacos.top/2022/01/16/0412-2/)
-  - [无法识别下面的以太网卡](https://github.com/Shaneee/AppleIGB)
+  - [无法识别第二块i211以太网卡](https://github.com/Shaneee/AppleIGB)
   - [启动慢](https://xobo.org/nuc8-monterey-boot-slowly/)
+  - [防止W5500突然黑屏](https://www.tonymacx86.com/threads/radeon-pro-w5500-kernel-panic-issues.311292/page-6)
   - 定制 USB
