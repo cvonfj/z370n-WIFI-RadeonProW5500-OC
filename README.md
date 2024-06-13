@@ -11,3 +11,4 @@ Update History:
 09/26/2021 11.5.2 OC-0.7.3 UpdateKextsVersion USBPorts.  
 09/27/2021 11.6   OC-0.7.3   
 10/09/2021 11.6   OC-0.7.4 Update Bluetooth 
+06/13/2024 12.7.5 OC-0.7.9 Updated to MacOS Monterey
